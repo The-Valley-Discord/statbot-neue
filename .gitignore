@@ -1,0 +1,5 @@
+__pycache__
+statbot.db*
+settings.json
+result
+chart.png
